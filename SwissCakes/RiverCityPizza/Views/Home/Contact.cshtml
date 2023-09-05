@@ -1,0 +1,120 @@
+﻿@model ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+<div class="uk-section-secondary">
+    <div style="background-image: url('/images/about-us-team.jpg');" class="uk-background-norepeat uk-background-top-center uk-background-fixed uk-section uk-padding-remove-bottom">
+        <div class="uk-container">
+            <div class="uk-margin-xlarge" uk-grid>
+                <div class="uk-width-1-1@m">
+                    <h1 class="uk-text-center">
+                        Send Us a Message
+                    </h1>
+                    <hr />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="uk-section-default uk-section">
+    <div class="uk-container uk-container-small">
+        <div class="uk-grid-margin" uk-grid>
+            <div class="uk-width-1-1@m">
+                <div class="uk-panel">
+                    <div class="bfClearfix">
+                        <div id="ff_formdiv1" class="bfFormDiv">
+                            <form id="wf-form" class="bfQuickMode" method="post" asp-route="Contact">
+                                <div id="bfPage1" class="bfPage">
+                                    <div class="bfErrorMessage alert alert-error" style="display: none;"></div>
+                                    <div class="bfElemWrap control-group" id="bfElemWrap1">
+                                        <div class="controls form-inline">
+                                            <div class="">
+                                                <label class="control-label" id="bfLabel1" for="ff_elem1">Name <i class="icon-asterisk"></i> </label>
+                                                <input class="ff_elem inputbox" asp-for="Name" />
+                                                 <span asp-validation-for="Name" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="bfElemWrap control-group" id="bfElemWrap2">
+                                        <div class="controls form-inline">
+                                            <div class="">
+                                                <label class="control-label" id="bfLabel2" for="ff_elem2">Email <i class="icon-asterisk"></i> </label>
+                                                <input class="ff_elem inputbox" asp-for="Email" />
+                                                <span asp-validation-for="Email" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="bfElemWrap control-group" id="bfElemWrap3">
+                                        <div class="controls form-inline">
+                                            <div class="">
+                                                <label class="control-label" id="bfLabel3" for="ff_elem3">Phone (Optional)</label>
+                                                <input class="ff_elem inputbox" asp-for="Phone" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="bfElemWrap control-group" id="bfElemWrap4">
+                                        <div class="controls form-inline">
+                                            <div class="">
+                                                <label class="control-label" id="bfLabel4" for="ff_elem4">What can we do for you?</label>
+                                                <textarea class="ff_elem inputbox" asp-for="Message"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="bfClearfix"></div>
+                                    <div class="form-actions">
+                                        <div class="">
+
+                                            <input type="submit" value="Submit" data-sitekey="6LcwQpIUAAAAALqVTp8KXj1Nc3HJE87jAtClOL03" data-callback='onSubmit' data-wait="Please wait..." class="bfSubmitButton btn btn-primary pull-right button g-recaptcha" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- form end -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+    .text-danger{
+        color:red;
+    }
+    #ff_formdiv1 .inputbox[type=text],
+    #ff_formdiv1 .inputbox[type=email]{
+        width: 100% !important;
+        border-bottom: 1px solid rgba(0,0,0,0.8) !important;
+    }
+
+    textarea:not([class*=uk-]) {
+        border: 1px solid rgba(0,0,0,0.8) !important;
+    }
+
+    .form-actions {
+        border: none !important;
+    }
+
+    .icon-asterisk:before, .icon-star-empty:before, .icon-unfeatured:before {
+        content: "*" !important;
+        color:red !important;
+    }
+</style>
+<script>
+    function onSubmit(token) {
+        if(jQuery("#wf-form").valid())
+        {
+            document.getElementById("wf-form").submit();
+        }
+        else
+            return false;
+    }
+</script>
+

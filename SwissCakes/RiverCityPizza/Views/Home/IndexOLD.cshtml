@@ -1,0 +1,266 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+<link href="~/css/slick.css" rel="stylesheet" />
+<link href="~/css/slick-theme.css" rel="stylesheet" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+<script src="~/js/slick.js"></script>
+
+@*@await Html.PartialAsync("_WebsiteMessage")*@
+<div id="system-message-container">
+</div>
+
+<div class="demo uk-section-secondary">
+    <div style="background-image: url('images/Home_Page.jpg');" class="uk-background-norepeat uk-background-cover uk-background-center-center uk-section uk-section-small uk-flex uk-flex-middle" uk-parallax="bgx: 0,-130;bgy: 0,0" uk-height-viewport="offset-top: true;offset-bottom: 20">
+        <div class="uk-width-1-1">
+            <div class="uk-container">
+                <div class="uk-grid-margin" uk-grid>
+                    <div class="uk-width-3-4@m">
+                        <div class="uk-margin-remove-vertical uk-h2">
+                            Welcome to
+                        </div>
+                        <h2 class="uk-margin-small uk-margin-remove-bottom uk-text-left@m uk-text-center uk-heading-hero" uk-parallax="y: 0,60;opacity: 1,0;easing: 0.8;viewport: 0.95;media: @@s">
+                            River City Pizza
+                        </h2>
+                        <div class="uk-margin-remove-vertical uk-h2">
+                            Gourmet Pizza &amp; Pasta
+                        </div>
+                        <div class="uk-margin">
+                            <div class="uk-flex-middle uk-child-width-auto uk-grid-small" uk-grid>
+                                <div class="el-item">
+                                    <a class="el-content uk-button uk-button-secondary" href="index.php/menu.html">
+                                        View The Menu
+                                    </a>
+                                </div>
+                                <div class="el-item">
+                                    <a class="el-content uk-button uk-button-secondary" href="@(RiverCityPizza.Contsant.OnlineOrderURL)">
+                                        Order Online
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-width-expand@m">
+                        <div class="uk-margin uk-card uk-card-secondary uk-card-body">
+                            <h3 class="el-title uk-margin uk-card-title">
+                                Free Delivery
+                            </h3>
+                            <div class="el-content uk-margin">
+                                <p>Enjoy our delicious pizza from the comfort of your own couch.  We deliver to the following locations: Otis Orchards, Liberty Lake, Newman Lake, East Valley and Greenacres.</p>
+                                <p style="text-align: center;"><a href="@(RiverCityPizza.Contsant.OnlineOrderURL)" class="uk-button uk-button-primary">Start Your Order</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*<div class="uk-section-default uk-section uk-padding-remove-vertical">
+    <div class="uk-container">
+        <div class="uk-flex-middle uk-margin" uk-grid>
+            <div class="uk-width-1-1@m uk-flex-first@m uk-grid-item-match">
+                <div class="uk-grid-item-match">
+                    <div style="background-image: url('/images/home-about-texture.svg');padding-bottom:0 !important;" class="uk-background-norepeat uk-background-top-right uk-tile" uk-parallax="bgy: 80,180">
+                        <div class="uk-margin-remove-vertical uk-h2">
+                            <h3 class="font_4" style="text-align: center;"><span class="color_11"><strong>COUPONS & OFFERS</strong></span></h3>
+                        </div>
+                        <div id="coupons" >
+                            <div class="mt-5 pos-r">
+                                <div class="carousel-controls testimonial-carousel-controls">
+                                    <div class="control prev"><i class="fa fa-chevron-left">&nbsp;</i></div>
+                                    <div class="control next"><i class="fa fa-chevron-right">&nbsp;</i></div>
+                                </div>
+                                <div class="testimonial-carousel">
+                                    <div class="one-slide white">
+                                        <div class="testimonial w-100 h-100  p-3 text-center">
+                                            <div class="brand"><img alt="Florida Dairy Farmers" src="~/images/Home_airtel_30082020.jpg" class="mx-auto" /></div>
+                                        </div>
+                                    </div>
+                                    <div class="one-slide white">
+                                        <div class="testimonial w-100 h-100  p-3 text-center">
+                                            <div class="brand"><img alt="Florida Department of Education" src="~/images/Home_au_20201029.jpg" class="mx-auto" /></div>
+                                        </div>
+                                    </div>
+                                    <div class="one-slide white">
+                                        <div class="testimonial w-100 h-100  p-3 text-center">
+                                            <div class="brand"><img alt="Seminole County" src="~/images/Home_Freecharge_20210405.jpg" class="mx-auto" /></div>
+                                        </div>
+                                    </div>
+                                    <div class="one-slide white">
+                                        <div class="testimonial w-100 h-100  p-3 text-center">
+                                            <div class="brand"><img alt="Lynx" src="~/images/Home_Paytm_20210519.jpg" class="mx-auto" /></div>
+                                        </div>
+                                    </div>
+                                    <div class="one-slide white">
+                                        <div class="testimonial w-100 h-100  p-3 text-center">
+                                            <div class="brand"><img alt="Miami Beach VCA" src="~/images/Home_payzapp_20201029.jpg" class="mx-auto" /></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>*@
+
+<div class="uk-section-default uk-section uk-padding-remove-vertical">
+    <div class="uk-container">
+        <div class="uk-flex-middle uk-margin" uk-grid>
+            <div class="uk-width-1-1@m uk-flex-first@m uk-grid-item-match">
+                <div class="uk-grid-item-match">
+                    <div style="background-image: url('/images/home-about-texture.svg');" class="uk-background-norepeat uk-background-top-right uk-tile" uk-parallax="bgy: 80,180">
+                        <div class="uk-margin-remove-vertical uk-h2">
+                            <h3 class="font_4" style="text-align: center;"><span class="color_11"><strong>SPOKANE'S BEST FRESH MADE PIZZA</strong><br />Homemade dough, fresh mozzarella, and classic ingredients.  Try one of our signature pizzas or make one all your own.  What's not to love!<br /></span></h3>
+                        </div>
+                        <div class="uk-margin-medium uk-text-center@m uk-text-center uk-grid-match uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-3@l uk-child-width-1-3@xl" uk-grid>
+                            <div>
+                                <div class="el-item uk-card uk-card-secondary uk-card-body">
+                                    <h3 class="el-title uk-margin uk-h2 uk-heading-line">
+                                        <span>Hours</span>
+                                    </h3>
+                                    <div class="el-content uk-margin uk-text-lead">
+                                        <p><strong>Sunday - Wednesday</strong><br />11 AM - 8 PM</p>
+                                        <p><strong>Thursday - Saturday</strong><br />11 AM - 9 PM</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="el-item uk-card uk-card-secondary uk-card-body">
+                                    <h3 class="el-title uk-margin uk-h2 uk-heading-line">
+                                        <span>Locations</span>
+                                    </h3>
+                                    <div class="el-content uk-margin uk-text-lead">
+                                        <p style="text-align: center;">3 Locations! Click Here to See Them!</p>
+                                        <p style="text-align: center;"><a class="uk-button uk-button-primary" href="index.php/directions.html">Get Directions</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="el-item uk-card uk-card-secondary uk-card-body">
+                                    <h3 class="el-title uk-margin uk-h2 uk-heading-line">
+                                        <span>Order Now</span>
+                                    </h3>
+                                    <div class="el-content uk-margin uk-text-lead">
+                                        Free delivery!<br>
+                                        <p style="text-align: center;"><a class="uk-button uk-button-primary" href="@(RiverCityPizza.Contsant.OnlineOrderURL)">Order Online</a></p>
+                                        <p style="text-align: center;"><a class="uk-button uk-button-primary" href="tel:+15099226322">Call The Store</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@await Html.PartialAsync("_SubscribePage")
+
+
+<script type="text/javascript">
+      jQuery(".testimonial-carousel").slick({
+	infinite: !0,
+	slidesToShow: 3,
+	slidesToScroll: 1,
+	autoplay: !0,
+	arrows:true,
+	prevArrow: jQuery(".testimonial-carousel-controls .prev"),
+	nextArrow: jQuery(".testimonial-carousel-controls .next"),
+	responsive: [{
+	  breakpoint: 1200,
+	  settings: {
+	    slidesToShow: 3
+	  }
+	}, {
+	  breakpoint: 992,
+	  settings: {
+	    slidesToShow: 2
+	  }
+	}, {
+	  breakpoint: 600,
+	  settings: {
+	    slidesToShow: 1
+	  }
+	}]
+  });
+</script>
+
+<style>
+    .orange-fade {
+    background: #ff910e;
+    background: linear-gradient(135deg,#ff910e 0,#ffa841 100%);
+}
+.pos-r {
+    position: relative!important;
+}
+.white {
+    background: #fff;
+}
+.text-white {
+    color: #fff!important;
+}
+.text-gray {
+    color: #363636;
+}
+.testimonial {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.separator {
+    width: 14%;
+    height: 3px;
+    margin: 1.2em auto 1em;
+    background: #ffc53a;
+}
+.one-slide {
+  border-radius: 3px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 1.1rem;
+}
+.one-slide img {
+  width: 90%;
+}
+.carousel-controls .control {
+  position: absolute;
+  cursor: pointer;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.prev {
+  left: -1.875rem;
+}
+.next {
+  right: -1.875rem;
+}
+.testimonial-carousel,.slick-initialized { 
+    display: block; 
+  }
+ .message {
+    width: 100%;
+    font-size: .9rem;
+  }
+  .brand {
+    width: 100%;
+  }
+  @@media (max-width: 575px) {
+    img {
+  	    width: 40%;
+  	  }
+  }
+}
+</style>
+
+

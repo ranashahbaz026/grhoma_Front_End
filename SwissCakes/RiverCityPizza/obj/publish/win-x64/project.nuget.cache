@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/N/ibVcQ/zswZ3jp/8G32ba27ZIEkukp+Lysp1t15N/PbtyRCuLyA0xcOJ6C2m2IwJMbDzJff5JTnpK7WDVVw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\SamsWingsAndMore.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\grhoma1986\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "D:\\Users\\grhoma1986\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "D:\\Users\\grhoma1986\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "D:\\Users\\grhoma1986\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

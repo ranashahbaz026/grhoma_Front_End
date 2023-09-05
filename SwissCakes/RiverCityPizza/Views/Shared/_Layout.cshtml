@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Super User" />
+    <meta name="description" content="Pizza" />
+    <title>@ViewData["Title"]</title>
+    @*<link rel="shortcut icon" href="images/favicon1.ico" type="image/x-icon">*@
+    <link rel="icon" type="image/x-icon" href="/favicon1.ico">
+    <link rel="apple-touch-icon-precomposed" href="images/logo.png">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" media="" rel="stylesheet" type="text/css">
+    <link href="~/css/module_default.css" rel="stylesheet" />
+    <link href="~/css/theme.css" rel="stylesheet" id="theme-style-css" />
+    <link href="~/css/wk-styles.css" rel="stylesheet" id="wk-styles-css" />
+    <link href="~/css/concat.min.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="~/js/acymailing_module.js"></script>
+    <script src="~/js/uikit.min.js"></script>
+    <script src="~/js/uikit-icons-vision.min.js"></script>
+    <script src="~/js/theme.js"></script>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/jquery-noconflict.js"></script>
+    <script src="~/js/jquery-migrate.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/uikit2.js"></script>
+    <script src="~/js/wk-scripts-db.js"></script>
+    <script>GOOGLE_MAPS_API_KEY = "@(SwissConfectionery.Contsant.GoogleMapKey)";</script>
+    <script src="//www.google.com/recaptcha/api.js" async defer></script>
+
+    @*<script>
+    if(typeof acymailingModule == 'undefined'){
+    var acymailingModule = Array();
+    }
+
+    acymailingModule['emailRegex'] = /^[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+)*\@([a-z0-9-]+\.)+[a-z0-9]{2,10}$/i;
+
+    acymailingModule['NAMECAPTION'] = 'Name';
+    acymailingModule['NAME_MISSING'] = 'Please enter your name';
+    acymailingModule['EMAILCAPTION'] = 'Email';
+    acymailingModule['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+    acymailingModule['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+    acymailingModule['CAPTCHA_MISSING'] = 'The captcha is invalid, please try again';
+    acymailingModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+
+
+    acymailingModule['level'] = 'enterprise';
+
+    acymailingModule['reqFieldsformAcymailing72431'] = Array('name','html','location');
+    acymailingModule['validFieldsformAcymailing72431'] = Array('Please enter a value for the field Name','Please enter a value for the field Receive','Please select at least one location');
+    document.addEventListener('DOMContentLoaded', function() {
+    Array.prototype.slice.call(document.querySelectorAll('a span[id^="cloak"]')).forEach(function(span) {
+    span.innerText = span.textContent;
+    });
+    });
+
+    </script>*@
+</head>
+<body>
+    @{
+        var currentPage = Convert.ToString(ViewContext.RouteData.Values["Action"]);
+        if (!string.IsNullOrWhiteSpace(currentPage))
+        {
+            currentPage = currentPage.ToLower();
+        }
+    }
+    <div class="tm-page">
+        <div class="tm-header-mobile uk-hidden@l">
+            <nav class="uk-navbar-container" uk-navbar>
+                <div class="uk-navbar-left">
+                    <a class="uk-navbar-toggle" href="#tm-mobile" uk-toggle>
+                        <div uk-navbar-toggle-icon></div>
+                    </a>
+                </div>
+                <div class="uk-navbar-center">
+                    <a class="uk-navbar-item uk-logo" data-value="Index" asp-route="HomePage">
+                        <img src="~/images/logo.png" class="uk-responsive-height" alt="Swiss Confectionery">
+                    </a>
+                </div>
+            </nav>
+
+            <div id="tm-mobile" class="uk-modal-full" uk-modal>
+                <div class="uk-modal-dialog uk-modal-body uk-text-center uk-flex" uk-height-viewport>
+                    <button class="uk-modal-close-full" type="button" uk-close></button>
+                    <div class="uk-margin-auto-vertical uk-width-1-1">
+                        <div class="uk-child-width-1-1" uk-grid>
+                            <div>
+                                <div class="uk-panel" id="module-0">
+                                    <ul class="uk-nav uk-nav-primary uk-nav-center">
+                                        <li><a href="@(SwissConfectionery.Contsant.OnlineOrderURL)"><img class="uk-responsive-height" src="~/images/orderonline.png" alt="Order Online"></a></li>
+                                        <li class="uk-active li-index"><a data-value="Index" asp-route="HomePage">Home</a></li>
+                                        <li class="li-menu"><a data-value="Menu" asp-route="Menu">Menu</a></li>
+                                        <li class="li-contact"><a data-value="Contact" asp-route="Contact">Contact</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tm-header uk-visible@l" uk-header>
+            <div uk-sticky media="768" show-on-up animation="uk-animation-slide-top" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container">
+                <div class="uk-navbar-container">
+                    <div class="uk-container">
+                        <nav class="uk-navbar" uk-navbar="{&quot;align&quot;:&quot;center&quot;,&quot;boundary&quot;:&quot;!.uk-navbar-container&quot;}">
+                            <div class="uk-navbar-center">
+                                <div class="uk-navbar-center-left">
+                                    <div>
+                                        <div class="uk-panel" id="module-0">
+                                            <ul class="uk-navbar-nav">
+                                                <li>
+                                                    <a href="@(SwissConfectionery.Contsant.OnlineOrderURL)">
+                                                        <div class="image-container">
+                                                            <img class="uk-responsive-height uk-margin-small-right" src="images/orderonline.png" alt="Order Online">
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                                <li class="uk-active li-index"><a data-value="Index" asp-route="HomePage">Home</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a data-value="Index" asp-route="HomePage" class="uk-navbar-item uk-logo">
+                                    <img src="~/images/logo-9337d1b1.png" srcset="/images/logo-9337d1b1.png 250w, /images/logo-9337d1b1.png 254w, /images/logo-9337d1b1.png 313w" sizes="(min-width: 313px) 313px, 100vw" width="313" class="uk-responsive-height" alt="Swiss Confectionery">
+                                </a>
+                                <div class="uk-navbar-center-right">
+                                    <div>
+                                        <ul class="uk-navbar-nav">
+                                            <li class="li-menu"><a data-value="Menu" asp-route="Menu">Menu</a></li>
+                                            <li class="li-contact"><a data-value="Contact" asp-route="Contact">Contact</a></li>
+                                        </ul>
+                                        <div class="uk-navbar-item" id="module-tm-1">
+                                            <div class="custom">
+                                                <ul class="uk-grid-small uk-flex-inline uk-flex-middle uk-flex-nowrap" uk-grid>
+                                                    <li>
+                                                        <a href="//www.facebook.com/swisscakes/" class="uk-icon-link" target="_blank" uk-icon="facebook"></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="//www.instagram.com/swisscakesnola/" class="uk-icon-link" target="_blank" uk-icon="instagram"></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="//www.yelp.com/biz/swiss-confectionery-new-orleans" class="uk-icon-link" target="_blank" uk-icon="yelp"></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @RenderBody()
+
+        @await Html.PartialAsync("_FooterPage",currentPage)
+    </div>
+    <script>
+        jQuery(document).ready(function () {
+            jQuery("li.uk-active").removeClass('uk-active');
+            jQuery("li.li-@currentPage").addClass('uk-active');
+        });
+    </script>
+</body>
+</html>

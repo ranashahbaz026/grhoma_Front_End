@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SamsWingsAndMore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SamsWingsAndMore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\css\\module_default.css",
+      "PackagePath": "staticwebassets\\css\\module_default.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\css\\wk-styles.css",
+      "PackagePath": "staticwebassets\\css\\wk-styles.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\Gyro.jpg",
+      "PackagePath": "staticwebassets\\images\\Gyro.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\Home_Freecharge_20210405.jpg",
+      "PackagePath": "staticwebassets\\images\\Home_Freecharge_20210405.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\Home_Page.jpg",
+      "PackagePath": "staticwebassets\\images\\Home_Page.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\Home_Paytm_20210519.jpg",
+      "PackagePath": "staticwebassets\\images\\Home_Paytm_20210519.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\Sandwich.jpg",
+      "PackagePath": "staticwebassets\\images\\Sandwich.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\SouthernDoubleBurger.jpg",
+      "PackagePath": "staticwebassets\\images\\SouthernDoubleBurger.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\WingsFries.jpg",
+      "PackagePath": "staticwebassets\\images\\WingsFries.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\about-us-team.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-team.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\home-about-texture.svg",
+      "PackagePath": "staticwebassets\\images\\home-about-texture.svg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\logo-9337d1b1.png",
+      "PackagePath": "staticwebassets\\images\\logo-9337d1b1.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\orderonline - Copy.png",
+      "PackagePath": "staticwebassets\\images\\orderonline - Copy.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\orderonline.png",
+      "PackagePath": "staticwebassets\\images\\orderonline.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\thankyou.png",
+      "PackagePath": "staticwebassets\\images\\thankyou.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\tripadvisor.png",
+      "PackagePath": "staticwebassets\\images\\tripadvisor.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\wings-2.jpg",
+      "PackagePath": "staticwebassets\\images\\wings-2.jpg"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\wings.png",
+      "PackagePath": "staticwebassets\\images\\wings.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\images\\yelp.png",
+      "PackagePath": "staticwebassets\\images\\yelp.png"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\acymailing_module.js",
+      "PackagePath": "staticwebassets\\js\\acymailing_module.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\jquery-migrate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\jquery-noconflict.js",
+      "PackagePath": "staticwebassets\\js\\jquery-noconflict.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\uikit-icons-vision.min.js",
+      "PackagePath": "staticwebassets\\js\\uikit-icons-vision.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\uikit2.js",
+      "PackagePath": "staticwebassets\\js\\uikit2.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\js\\wk-scripts-db.js",
+      "PackagePath": "staticwebassets\\js\\wk-scripts-db.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Users\\grhoma1986\\source\\repos\\SamsWingsAndMore\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SamsWingsAndMore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SamsWingsAndMore.props",
+      "PackagePath": "build\\SamsWingsAndMore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SamsWingsAndMore.props",
+      "PackagePath": "buildMultiTargeting\\SamsWingsAndMore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SamsWingsAndMore.props",
+      "PackagePath": "buildTransitive\\SamsWingsAndMore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Thank You";
+}
+
+<div class="thankyou-wrapper">
+    <h1><img src="~/images/thankyou.png" alt="thanks" /></h1>
+    <p>Someone from Swiss Confectionery will be in contact with you shortly.</p>
+    <a asp-route="HomePage">Back to home</a>
+    <div class="clr"></div>
+</div>
+
+<style>
+    .thankyou-wrapper {
+        width: 100%;
+        height: auto;
+        margin: auto;
+        background: #ffffff;
+        padding: 10px 0px 50px;
+    }
+
+        .thankyou-wrapper h1 {
+            font: 100px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #333333;
+            padding: 0px 10px 10px;
+        }
+
+        .thankyou-wrapper p {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #333333;
+            padding: 5px 10px 10px;
+        }
+
+        .thankyou-wrapper a {
+            font: 26px Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: #ffffff;
+            display: block;
+            text-decoration: none;
+            width: 250px;
+            background: #ea2306;
+            margin: 10px auto 0px;
+            padding: 15px 20px 15px;
+        }
+
+            .thankyou-wrapper a:hover {
+                font: 26px Arial, Helvetica, sans-serif;
+                text-align: center;
+                color: #ffffff;
+                display: block;
+                text-decoration: none;
+                width: 250px;
+                background: #ea2306;
+                margin: 10px auto 0px;
+                padding: 15px 20px 15px;
+            }
+</style>
