@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P5aMHWb0PISiizKdxjKO9wNFa0fQoph8Y2JQzGrVxek=",
+  "Hash": "kBk44+3/En62bV365m4DvF3gxuubTz+te0qn7ZeWjRA=",
   "Source": "SwissConfectionery",
   "BasePath": "_content/SwissConfectionery",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SwissConfectionery\\wwwroot",
       "Source": "SwissConfectionery",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SwissConfectionery.styles.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SwissConfectionery.styles.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "SwissConfectionery.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SwissConfectionery.styles.css"
+      "OriginalItemSpec": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SwissConfectionery.styles.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SwissConfectionery.bundle.scp.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SwissConfectionery.bundle.scp.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "SwissConfectionery.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SwissConfectionery.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SwissConfectionery.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\concat.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\concat.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/concat.min.css",
       "AssetKind": "All",
@@ -68,10 +68,27 @@
       "OriginalItemSpec": "wwwroot\\css\\concat.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\flexkit-icons.ttf",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\custome-styles.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "BasePath": "_content/SwissConfectionery",
+      "RelativePath": "css/custome-styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custome-styles.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\flexkit-icons.ttf",
+      "SourceId": "SwissConfectionery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/fonts/flexkit-icons.ttf",
       "AssetKind": "All",
@@ -85,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\flexkit-icons.ttf"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\flexkit-icons.woff",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\flexkit-icons.woff",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/fonts/flexkit-icons.woff",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\flexkit-icons.woff"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\toaster-icons.eot",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\toaster-icons.eot",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/fonts/toaster-icons.eot",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\toaster-icons.eot"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\toaster-icons.ttf",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\toaster-icons.ttf",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/fonts/toaster-icons.ttf",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\toaster-icons.ttf"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\toaster-icons.woff",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\fonts\\toaster-icons.woff",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/fonts/toaster-icons.woff",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\toaster-icons.woff"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\module_default.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\module_default.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/module_default.css",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\module_default.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\site.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\slick.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\slick.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\slick-theme.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\slick-theme.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/slick-theme.css",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick-theme.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\theme.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\theme.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/theme.css",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\theme.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\wk-styles.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\css\\wk-styles.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "css/wk-styles.css",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\wk-styles.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\favicon_old.ico",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\favicon_old.ico",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "favicon_old.ico",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\favicon_old.ico"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\favicon1.ico",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\favicon1.ico",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "favicon1.ico",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\favicon1.ico"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.eot",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.eot",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/icomoon.eot",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon.eot"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.svg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.svg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/icomoon.svg",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon.svg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.ttf",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.ttf",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/icomoon.ttf",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon.ttf"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.woff",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\icomoon.woff",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/icomoon.woff",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon.woff"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.eot",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.eot",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/slick.eot",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.eot"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.svg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.svg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/slick.svg",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.svg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.ttf",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.ttf",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/slick.ttf",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.ttf"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.woff",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\fonts\\slick.woff",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "fonts/slick.woff",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.woff"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\about-us-team.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\about-us-team.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/about-us-team.jpg",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-us-team.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\facebook.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\facebook.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/facebook.png",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\facebook.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\favicon_old.ico",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\favicon_old.ico",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/favicon_old.ico",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon_old.ico"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\favicon1.ico",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\favicon1.ico",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/favicon1.ico",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon1.ico"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Gyro.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Gyro.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/Gyro.jpg",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Gyro.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Freecharge_20210405.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Freecharge_20210405.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/Home_Freecharge_20210405.jpg",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home_Freecharge_20210405.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Page - Copy.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Page - Copy.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/Home_Page - Copy.jpg",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home_Page - Copy.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Page.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Page.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/Home_Page.jpg",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home_Page.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Paytm_20210519.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Home_Paytm_20210519.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/Home_Paytm_20210519.jpg",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home_Paytm_20210519.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\home-about-texture.svg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\home-about-texture.svg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/home-about-texture.svg",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home-about-texture.svg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\instagram.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\instagram.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/instagram.png",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\logo.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\logo-9337d1b1.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\logo-9337d1b1.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/logo-9337d1b1.png",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-9337d1b1.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\orderonline.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\orderonline.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/orderonline.png",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\orderonline.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Sandwich.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\Sandwich.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/Sandwich.jpg",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Sandwich.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\SouthernDoubleBurger.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\SouthernDoubleBurger.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/SouthernDoubleBurger.jpg",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SouthernDoubleBurger.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\thankyou.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\thankyou.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/thankyou.png",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\thankyou.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\tripadvisor.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\tripadvisor.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/tripadvisor.png",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tripadvisor.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\wings.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\wings.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/wings.png",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wings.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\wings-2.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\wings-2.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/wings-2.jpg",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wings-2.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\WingsFries.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\WingsFries.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/WingsFries.jpg",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\WingsFries.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\yelp.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\images\\yelp.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "images/yelp.png",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\yelp.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\1.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\1.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/1.png",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\2.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\2.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/2.png",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\2.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\3.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\3.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/3.png",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\3.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\4.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\4.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/4.png",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\4.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\about.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\about.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\about-l.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\about-l.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/about-l.jpg",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-l.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\about-r.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\about-r.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/about-r.jpg",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about-r.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\bg-left.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\bg-left.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/bg-left.png",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-left.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\delivery_landing.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\delivery_landing.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/delivery_landing.png",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\delivery_landing.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\food.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\food.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/food.jpg",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\food.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\food1.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\food1.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/food1.jpg",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\food1.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-bottom.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-bottom.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/line-bottom.png",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\line-bottom.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-left.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-left.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/line-left.png",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\line-left.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-right.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-right.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/line-right.png",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\line-right.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-top.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\line-top.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/line-top.png",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\line-top.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\paper-pattern.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\paper-pattern.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/paper-pattern.jpg",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\paper-pattern.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\photo.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\photo.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/photo.jpg",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\photo.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\photo.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\photo.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/photo.png",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\photo.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\pick-up_landing.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\pick-up_landing.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/pick-up_landing.png",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pick-up_landing.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\pizza.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\pizza.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/pizza.jpg",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizza.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\pizza-bg.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\pizza-bg.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/pizza-bg.jpg",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizza-bg.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\rectangle.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\rectangle.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/rectangle.jpg",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rectangle.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review1.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review1.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/reviewimg/Review1.png",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\reviewimg\\Review1.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review2.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review2.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/reviewimg/Review2.png",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\reviewimg\\Review2.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review3.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review3.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/reviewimg/Review3.png",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\reviewimg\\Review3.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review4.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviewimg\\Review4.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/reviewimg/Review4.png",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\reviewimg\\Review4.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviews google.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\reviews google.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/reviews google.png",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\reviews google.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\strip-grey.png",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\strip-grey.png",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/strip-grey.png",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\strip-grey.png"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\wilkes-pizza-logo.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\wilkes-pizza-logo.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/wilkes-pizza-logo.jpg",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\wilkes-pizza-logo.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\wings.jpg",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\img\\wings.jpg",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "img/wings.jpg",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\wings.jpg"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\acymailing_module.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\acymailing_module.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/acymailing_module.js",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\acymailing_module.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\jquery.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\jquery.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\jquery-migrate.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\jquery-migrate.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/jquery-migrate.min.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-migrate.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\jquery-noconflict.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\jquery-noconflict.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/jquery-noconflict.js",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-noconflict.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\site.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\slick.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\slick.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/slick.js",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slick.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\slick.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\slick.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/slick.min.js",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slick.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\theme.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\theme.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/theme.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\theme.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\uikit.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\uikit.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/uikit.min.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\uikit.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\uikit2.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\uikit2.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/uikit2.js",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\uikit2.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\uikit-icons-vision.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\uikit-icons-vision.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/uikit-icons-vision.min.js",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\uikit-icons-vision.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\wk-scripts-db.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\js\\wk-scripts-db.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "js/wk-scripts-db.js",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\wk-scripts-db.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1870,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1972,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1989,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2006,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2040,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2057,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2074,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2108,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2125,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2142,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2176,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2193,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2210,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2227,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2244,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2261,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2295,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2312,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2329,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2346,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2363,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2380,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2397,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2414,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2431,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2448,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2465,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2482,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2499,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SwissConfectionery",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
       "BasePath": "_content/SwissConfectionery",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\SwissConfectionery.csproj",
+      "projectUniqueName": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\SwissConfectionery.csproj",
       "projectName": "SwissConfectionery",
-      "projectPath": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\SwissConfectionery.csproj",
+      "projectPath": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\SwissConfectionery.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Fiverr\\grhoma-attachments\\SwissCakes\\RiverCityPizza\\obj\\",
+      "outputPath": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
