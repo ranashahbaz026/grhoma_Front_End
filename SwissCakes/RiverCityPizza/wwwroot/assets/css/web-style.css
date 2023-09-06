@@ -1,0 +1,23 @@
+
+.grid:after {
+	content: '';
+	display: block;
+	clear: both;
+  }
+  .grid {
+	margin: 0 auto;
+  }
+  .grid-item {
+	width: 390px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	margin-bottom: 20px;
+	transition: all 0.3s ease-in-out;
+  }
+  .grid-item img{
+	  width: 100%;
+	  max-width: 100%;
+	  overflow: hidden;
+  }
+  

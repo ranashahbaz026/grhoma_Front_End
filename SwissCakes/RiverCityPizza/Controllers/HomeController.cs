@@ -37,6 +37,11 @@ namespace SwissConfectionery.Controllers
         {
             return View();
         }
+        
+        public IActionResult WeddingCakes()
+        {
+            return View();
+        }
 
         public IActionResult Menu()
         {

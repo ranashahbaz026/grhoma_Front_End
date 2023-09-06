@@ -47,12 +47,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWRlb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/Fiverr/SwissCakes/grhoma_Front_End/SwissCakes/RiverCityPizza/Views/Home/WeddingCakes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWRkaW5nQ2FrZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/Fiverr/SwissCakes/grhoma_Front_End/SwissCakes/RiverCityPizza/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/Fiverr/SwissCakes/grhoma_Front_End/SwissCakes/RiverCityPizza/Views/Shared/_FooterPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Fiverr/SwissCakes/grhoma_Front_End/SwissCakes/RiverCityPizza/Views/Shared/_ReviewPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXZpZXdQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/Fiverr/SwissCakes/grhoma_Front_End/SwissCakes/RiverCityPizza/Views/Shared/_SubscribePage.cshtml]

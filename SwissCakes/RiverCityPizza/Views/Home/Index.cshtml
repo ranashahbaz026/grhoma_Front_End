@@ -7,6 +7,13 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 <script src="~/js/slick.js"></script>
 
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+
 @*@await Html.PartialAsync("_WebsiteMessage")*@
 <div id="system-message-container">
 </div>
@@ -127,7 +134,7 @@
                                     </h3>
                                     <div class="el-content uk-margin uk-text-lead">
                                         <p>For 90 years Swiss Confectionery has set the standard for wedding cakes in New Orleans.</p>
-                                        <p style="text-align: center;"><a class="uk-button uk-button-primary" asp-route="WeddingCakes">Learn More</a></p>
+                                        <p style="text-align: center;"><a class="uk-button uk-button-primary" asp-controller="Home" asp-action="WeddingCakes">Learn More</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -162,99 +169,7 @@
     </div>
 </div>
 
-<div class="container flex-row-testimonial">
-    <br>
-    <div class="text-center h2 title-testimonials-about-us flex_12"><span>What People Say About Us?</span></div>
-    <div class="strip-grey text-center">
-        <p><span>More than <span>206 </span> <b>reviews </b>on Google!</span></p>
-    </div>
-    <div class="flex-row-testimonial f-middle pt2 pb2">
-        <div class="flex_4">
-            <p class="check-out"><span>Check out what our clients say</span></p>
-        </div>
-        <div class="flex_8 f-alpha f-omega testimonials-wrap">
-            <a href="https://www.google.com/maps/place/Wilke's/@@40.1805051,-75.546152,16z/data=!4m18!1m12!4m11!1m3!2m2!1d-75.5461735!2d40.180751!1m6!1m2!1s0x89c68fc66d3297a7:0x7f0ac33d7f4ab051!2sWilke's+15+Riverside+Dr+Spring+City,+PA+19475!2m2!1d-75.546152!2d40.1805051!3m4!1s0x89c68fc66d3297a7:0x7f0ac33d7f4ab051!8m2!3d40.1805051!4d-75.546152"
-               target="_blank"
-               rel="noopener"
-               class="fb_gmb_review btn-testimonial icon-gbusiness inline-block"
-               title=""> Leave Review on Google</a>
-            <a href="https://www.facebook.com/Wilkes-Pizza-Sandwiches-282695051838211/"
-               target="_blank"
-               rel="noopener"
-               class="fb_facebook_review btn-testimonial icon-facebook inline-block"
-               title="">Leave Review on Facebook</a>
-        </div>
-        <div class="relative flex-row-testimonial">
-            <div class="swiper-container swiper wrap flex_12  t-flex_6 m-flex_4">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide reviews-item flex-row-testimonial">
-                        <span class="photo-wrap flex_2 m-flex_1 t-flex_2 relative">
-                            <img class="" src="~/img/reviewimg/Review1.png" alt="" width="65" height="65" />
-                        </span>
-                        <span class="review-name flex_10 m-flex_3 t-flex_4 text-left">Jykara Rigney</span>
-                        <span class="review-date flex_12 text-left"></span>
-                        <div class="review-message flex_12 text-left">
-                            I have eaten at this place a handful of times and I have to say I haven’t been disappointed yet. I recently ordered an bacon cheeseburger with some cheddar broccoli bite and fries the burger was delicious kinda reminded me of Philly .
-                            <p class="see-review">
-                                <a href="#"
-                                   class="fb_see_review_1  "
-                                   title=""></a>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide reviews-item flex-row-testimonial">
-                        <span class="photo-wrap flex_2 m-flex_1 t-flex_2 relative">
-                            <img class="" src="~/img/reviewimg/Review2.png" alt="" width="65" height="65" />
-                        </span>
-                        <span class="review-name flex_10 m-flex_3 t-flex_4 text-left">Bryan & Kat Williams</span>
-                        <span class="review-date flex_12 text-left"></span>
-                        <div class="review-message flex_12 text-left">
-                            Love Tracy and his crew. Everything here is always fantastic. The wings and fried pickles are our go tos.
-                            <p class="see-review">
-                                <a href="#"
-                                   class="fb_see_review_1  "
-                                   title=""></a>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide reviews-item flex-row-testimonial">
-                        <span class="photo-wrap flex_2 m-flex_1 t-flex_2 relative">
-                            <img class="" src="~/img/reviewimg/Review3.png" alt="" width="65" height="65" />
-                        </span>
-                        <span class="review-name flex_10 m-flex_3 t-flex_4 text-left">Dan Hoffman</span>
-                        <span class="review-date flex_12 text-left"></span>
-                        <div class="review-message flex_12 text-left">
-                            I have tried a handful of items on their menu and every one of them is excellent. The cheese steaks and Italian pork special are my go to favorites. They also have great cheesecake for dessert. In my opinion, they are the best place overall in Spring City.
-                            <p class="see-review">
-                                <a href="#"
-                                   class="fb_see_review_1  "
-                                   title=""></a>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide reviews-item flex-row-testimonial">
-                        <span class="photo-wrap flex_2 m-flex_1 t-flex_2 relative">
-                            <img class="" src="~/img/reviewimg/Review4.png" alt="" width="65" height="65" />
-                        </span>
-                        <span class="review-name flex_10 m-flex_3 t-flex_4 text-left">Jack Lorenzo</span>
-                        <span class="review-date flex_12 text-left"></span>
-                        <div class="review-message flex_12 text-left">
-                            Great place. I go every tuesday for their killer cheesesteaks. Also have had pizza which is terrific. Also try their flatbread pizza. Its to die for
-                            <p class="see-review">
-                                <a href="#"
-                                   class="fb_see_review_1  "
-                                   title=""></a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="button-next" role="button"></div>
-            <div class="button-prev" role="button"></div>
-        </div>
-        <div class=""></div>
-    </div>
-</div>
+@await Html.PartialAsync("_ReviewPartial")
 
 <script type="text/javascript">
       jQuery(".testimonial-carousel").slick({
