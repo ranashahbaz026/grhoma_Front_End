@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+5UwWJ404+8hBImjOQX7cQeAYE4TPiKhh9NpXHVYmiE=",
+  "Hash": "hi9S96iwFU+dmS62Tfkyi210oOrQsu5jzFUNWLXqMaw=",
   "Source": "SwissConfectionery",
   "BasePath": "_content/SwissConfectionery",
   "Mode": "Default",
@@ -338,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\cakes\\Cake9.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\assets\\images\\cakes\\wedding_cake_page_banner.jpg",
+      "SourceId": "SwissConfectionery",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\",
+      "BasePath": "_content/SwissConfectionery",
+      "RelativePath": "assets/images/cakes/wedding_cake_page_banner.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\cakes\\wedding_cake_page_banner.jpg"
     },
     {
       "Identity": "D:\\Projects\\Fiverr\\SwissCakes\\grhoma_Front_End\\SwissCakes\\RiverCityPizza\\wwwroot\\assets\\images\\line-left.png",
